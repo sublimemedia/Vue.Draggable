@@ -1,13 +1,13 @@
 {
-  "name": "vuedraggable",
-  "version": "2.24.3",
+  "name": "sublime-cds-vue.draggable",
+  "version": "0.0.1",
   "description": "draggable component for vue",
   "license": "MIT",
   "main": "dist/vuedraggable.umd.min.js",
   "types": "src/vuedraggable.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SortableJS/Vue.Draggable.git"
+    "url": "https://github.com/sublimemedia/sublime-cds-vue.draggable.git"
   },
   "private": false,
   "scripts": {
@@ -31,7 +31,7 @@
     "nested"
   ],
   "dependencies": {
-    "sortablejs": "1.10.2"
+    "sortablejs": "1.15.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
@@ -57,7 +57,7 @@
     "vue-server-renderer": "^2.6.12",
     "vue-template-compiler": "^2.6.12",
     "vuetify": "^1.5.16",
-    "vuex": "^3.1.1"
+    "vuex": "^3.6.2"
   },
   "eslintConfig": {
     "root": true,
